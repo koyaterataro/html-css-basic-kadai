@@ -1,0 +1,31 @@
+   html {
+        font-size: 20px;
+        text-align:center
+        
+    }
+
+  .blue {
+    font-size: 4.5;
+    color:  skyblue;
+    text-align:center
+  }
+  .pink {
+    color: rgb(255, 192, 203);
+    text-align:center
+  }
+
+  h1 {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 2em;
+    letter-spacing: 1.2em;
+    text-shadow: 1px 1px 2px gray;
+    border-bottom: solid 3px rgb(115, 115, 114);
+    font-style: normal;
+  }
+
+  #parent > p {
+    font-weight: bold;
+  }
+  
+
