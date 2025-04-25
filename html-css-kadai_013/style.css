@@ -2,7 +2,6 @@
 body {
   font-family: "Source Sans Pro", "Hiragino Kaku Gothic ProN", Meiryo, Arial,
     sans-serif;
-
 }
 
 
@@ -126,7 +125,6 @@ p {
 
   #nav-sp  a {
     display: block;
-    color: #ffffff;
   }
 
   #nav-sp a:link {
@@ -155,7 +153,7 @@ p {
     margin: 0 20px;
     height: 44px;
     font-size: 16px;
-    background-image: url('image.jpg');
+    background-image: url('images/arrow.png');
     background-repeat: no-repeat;
     background-position: right top;
   }
