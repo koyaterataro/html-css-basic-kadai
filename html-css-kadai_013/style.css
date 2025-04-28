@@ -120,7 +120,7 @@ p {
   }
 
   #logo-sp {
-    margin: 80px, 0px, 30px, 20px;
+    margin: 80px 0px 30px 20px;
   }
 
   #nav-sp  a {
@@ -148,9 +148,9 @@ p {
   #nav-sp .menu {
     text-decoration: none;
     display: block;
-    /* margin-left: 20px;
-    margin-right: 20px; */
-    margin: 0 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    /* margin: 0 20px; */
     height: 44px;
     font-size: 16px;
     background-image: url('images/arrow.png');
